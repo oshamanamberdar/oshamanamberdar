@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @oshamanamberdar
--Hello World
+-IT Student
 
