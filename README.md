@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @oshamanamberdar
--IT Student
+Full-stack Developer
 
